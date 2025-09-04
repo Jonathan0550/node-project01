@@ -1,12 +1,12 @@
 🚀 RESTful API with Node.js, Express, and PostgreSQL
 
-This project demonstrates how to build a RESTful API using Node.js, Express.js, and PostgreSQL. The application allows full CRUD operations (Create, Read, Update, Delete) on a PostgreSQL database, providing a solid foundation for building scalable and efficient backends.
+This project demonstrates how to build a RESTful API using Node.js, Fastify and PostgreSQL. The application allows full CRUD operations (Create, Read, Update, Delete) on a PostgreSQL database, providing a solid foundation for building scalable and efficient backends.
 
 🔧 Technologies Used
 
 Node.js: JavaScript runtime for server-side development.
 
-Express.js: Minimalist framework for building web servers.
+Fastify: High-performance web framework for building APIs and servers.
 
 PostgreSQL: Relational database management system.
 
